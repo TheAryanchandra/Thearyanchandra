@@ -1,13 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Aryan Chandra</h1>
-<h3 align="center">A Frontend and competative Coder</h3>
+<h3 align="center">Coder</h3>
 
 <img align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
-
-- 🌱 I’m currently learning **css,js,react**
-
-- 💬 Ask me about **c++**
 
 - 📫 How to reach me **aryanchandra3456@gmail.com**
 

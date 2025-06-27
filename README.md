@@ -4,6 +4,10 @@
 
 <img align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
+- ⚡ HEYY! Peeps*
+
+- ⚡Hope you doing good buddy!
+  
 - 📫 How to reach me **aryanchandra3456@gmail.com**
 
 - ⚡ Fun fact **Don't choose engineering :) ever....**

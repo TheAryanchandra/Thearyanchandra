@@ -120,10 +120,10 @@ Large-scale healthcare commerce ecosystem supporting pharmacy, diagnostics, tele
 
 ## 📈 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=thearyanchandra&show_icons=true&theme=default" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearyanchandra&layout=compact" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thearyanchandra" />

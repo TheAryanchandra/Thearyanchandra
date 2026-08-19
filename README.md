@@ -59,21 +59,6 @@
 
 ---
 
-### 💼 Experience
-
-**Full Stack Engineer — Ta Rule Technology Pvt. Ltd.** · Sep 2024 – Present
-- Shipped a production MERN healthcare commerce platform serving 1K+ DAU and 50K+ daily transactions, with 150+ REST APIs powering payments, order orchestration & real-time inventory sync
-- Architected a distributed inventory system across 200K+ SKUs / 5 warehouses using MongoDB aggregation + Redis caching
-- Raised frontend Lighthouse score 65 → 92 and cut backend latency 2.1s → 1.47s while sustaining 99.9% uptime
-- Built a Jest/Supertest suite (85% coverage) with CI/CD auto-rollback, cutting production bugs 40%
-
-**ML Engineer Intern — Indian Oil Corporation Limited (IOCL)** · Jun 2024 – Aug 2024
-- Trained an XGBoost model forecasting bandwidth across 500+ network nodes at 85% accuracy
-- Built a real-time monitoring layer (React.js/D3.js, WebSockets) cutting MTTR 35%
-- Optimized the inference pipeline, reducing latency 8.2s → 2.4s at 99.8% uptime
-
----
-
 ### 🌟 Featured Projects
 
 **🏟️ Stadium Pulse**

@@ -87,7 +87,7 @@ Recognized for shipping two production agentic AI systems using Gemini API, Lang
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thearyanchandra&show_icons=true&locale=en&layout=compact" alt="top langs" height="165"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thearyanchandra" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=thearyanchandra" alt="streak stats" />
 </p>
 
 ---

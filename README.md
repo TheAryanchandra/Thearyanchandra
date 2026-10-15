@@ -1,7 +1,7 @@
 <h1 align="center">Aryan Chandra 👋</h1>
 
 <h3 align="center">
-Full Stack Engineer | MERN, Java & Agentic AI Systems
+Software Engineer | MERN, Java & Agentic AI Systems
 </h3>
 
 <p align="center">
